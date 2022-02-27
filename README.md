@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @kali505
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi!
+I'm kali505.
+
+I'm a student of ROK.
+
+## LANGUAGES i use:
+
+- C/C++
+- python
+- little assembly
 
 <!---
 kali505/kali505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
