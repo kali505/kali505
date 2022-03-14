@@ -7,7 +7,7 @@ I'm a student of ROK.
 
 - C/C++
 - python
-- little assembly
+- assembly
 
 <!---
 kali505/kali505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
