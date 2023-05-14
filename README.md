@@ -6,6 +6,7 @@ I'm a student of ROK.
 ## LANGUAGES i use:
 
 - C/C++
+- Rust ***My FAVORITE***
 - python
 - assembly
 
